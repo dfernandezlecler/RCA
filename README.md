@@ -1,2 +1,2 @@
 # RCA
-Root Cause Analysys
+Root Cause Analysis
